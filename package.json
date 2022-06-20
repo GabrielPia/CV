@@ -1,0 +1,22 @@
+{
+  "name": "gabriel_cv",
+  "version": "1.0.0",
+  "description": "CV page for Gabriel Martins Teixeira Piagentini",
+  "main": "script/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielPia/CV.git"
+  },
+  "author": "Gabriel Martins Teixeira Piagentini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielPia/CV/issues"
+  },
+  "homepage": "https://github.com/GabrielPia/CV#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1"
+  }
+}
